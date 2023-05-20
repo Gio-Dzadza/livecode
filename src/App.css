@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+}
+.App .btns-wrapper{
+  display: flex;
+  width: 120px;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.App .btns-wrapper button{
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
 }
 
 .App-logo {
