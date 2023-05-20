@@ -23,14 +23,14 @@ function App() {
     setCircles(circles.slice(0, -1));
   }
   
-  const redo  = () => {
+  const redot  = () => {
     setCircles(circles.slice(0, +1));
   }
 
   return (
     <div className="App">
       <div className="btns-wrapper">
-        <button onClick={redo}>redo</button>
+        <button onClick={redot}>redo</button>
         <button onClick={undo}>undo</button>
       </div>
       <ColorGenerator />
