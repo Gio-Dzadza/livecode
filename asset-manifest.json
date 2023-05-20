@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gio-Dzadza/livecode/static/css/main.9e7d81bd.css",
+    "main.js": "/Gio-Dzadza/livecode/static/js/main.2719e7ac.js",
+    "static/js/787.15293f33.chunk.js": "/Gio-Dzadza/livecode/static/js/787.15293f33.chunk.js",
+    "index.html": "/Gio-Dzadza/livecode/index.html",
+    "main.9e7d81bd.css.map": "/Gio-Dzadza/livecode/static/css/main.9e7d81bd.css.map",
+    "main.2719e7ac.js.map": "/Gio-Dzadza/livecode/static/js/main.2719e7ac.js.map",
+    "787.15293f33.chunk.js.map": "/Gio-Dzadza/livecode/static/js/787.15293f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7d81bd.css",
+    "static/js/main.2719e7ac.js"
+  ]
+}
